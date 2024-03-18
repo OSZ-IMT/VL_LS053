@@ -1,2 +1,2 @@
-# VL_LS052
-Übungsprojekt Fahrkartenautomat zum Einstieg in die strukturierte Programmierung
+# VL_LS053: Raumschiffe
+Übungsprojekt Raumschiffe zum Einstieg in OOP
